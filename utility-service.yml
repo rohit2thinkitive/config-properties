@@ -13,3 +13,9 @@ spring:
    initialization-mode: always
    username: postgres
    url: jdbc:postgresql://localhost:5432/utility
+   
+amazonProperties:
+  endpointUrl: https://316679512918.signin.aws.amazon.com/console"
+  bucketName: dev-trst-assets
+  accessKey: AKIAUTO4R4NLLCS4CWK4
+  secretKey: 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
